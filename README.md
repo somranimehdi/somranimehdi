@@ -4,4 +4,5 @@
   
 <p> This is some of my stats :D </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Somranii) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Somranii&langs_count=5&&layout=compact)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Somranii&langs_count=5&&layout=compact)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Somranii)

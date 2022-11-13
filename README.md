@@ -3,7 +3,7 @@
 
 
 
-- 👨‍💻 All of my projects are available at [mehdis.netlify.app](mehdis.netlify.app)
+- 👨‍💻 All of my projects are available at [https://somranimehdi.netlify.app/](somranimehdi.netlify.app/))
 
 - 📫 How to reach me **mehdisomrani04@gmail.com**
 

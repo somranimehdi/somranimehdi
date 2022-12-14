@@ -3,16 +3,6 @@
 
 
 
-- 👨‍💻 All of my projects are available at [https://somranimehdi.netlify.app/](somranimehdi.netlify.app/))
-
-- 📫 How to reach me **mehdisomrani04@gmail.com**
-
-
-
-
-
-
-
 <h2> 📈 &nbsp;My GitHub History!</h2>
 <a href="https://github.com/somranimehdi">
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=somranimehdi&theme=noctis_minimus&show_icons=true" />

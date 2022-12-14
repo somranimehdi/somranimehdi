@@ -1,5 +1,4 @@
 <h1 align="left">Hi 👋, I'm Mehdi Somrani</h1>
-<h3 align="left">A Duck 🦆</h3>
 
 
 

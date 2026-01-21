@@ -1,4 +1,4 @@
-# 👨‍💻 Mehdi Somrani
+# SomosRanos
 ### Data & BI Engineer | Big Data Specialist
 
 <p align="left">
@@ -20,23 +20,6 @@
 | **Storage/DB** | ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat&logo=elasticsearch&logoColor=white) ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white) |
 | **Visualization** | ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=power-bi&logoColor=black) ![Kibana](https://img.shields.io/badge/Kibana-005571?style=flat&logo=kibana&logoColor=white) |
 | **Design** | ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white) ![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat&logo=adobe-illustrator&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white) |
-
----
-
-## 📊 GitHub Analytics
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=somranimehdi&theme=dark&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=somranimehdi&theme=dark&hide_border=true&layout=compact" width="48%" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=somranimehdi&theme=dark&hide_border=true" width="97%" />
-</p>
-
-### 🏆 Trophies
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=somranimehdi&theme=dracula&no-frame=true&column=4&margin-w=15" />
-</p>
 
 ---
 

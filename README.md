@@ -23,12 +23,6 @@
 
 ---
 
-## 📈 Engineering Impact
-* **Data & BI Engineer @ Orange Tunisie:** Optimizing Hadoop pipelines (60% efficiency gain) and managing ETL for 10M+ daily records.
-* **Infrastructure:** Experienced in setting up multi-machine Linux clusters and DataOps automation.
-
----
-
 ## 📊 GitHub Analytics
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=somranimehdi&theme=dark&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
@@ -51,9 +45,9 @@
 <br>
 These are technologies I have experience with but am no longer actively pursuing:
 
-* **Frameworks:** Flutter, Symfony, FastAPI, TailwindCSS
-* **Web Stack:** HTML5, CSS3, JavaScript
-* **Cloud/DevOps:** Heroku, Netlify, Firebase, Anaconda
+* **Frameworks:** Flutter, Symfony, TailwindCSS, CSS
+* **Web Stack:** HTML5, CSS3, JavaScript, PHP
+* **Cloud/DevOps:** Heroku, Firebase
 </details>
 
 <p align="right">

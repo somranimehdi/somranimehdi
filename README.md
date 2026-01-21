@@ -9,6 +9,14 @@
 
 ---
 
+## 👤 About Me
+* 🛠️ **Current Role:** Data & BI Engineer.
+* 🚀 **Core Expertise:** Cleaning and manipulating Data with **Python, Spark, and SQL**.
+* 🐧 **System Prefs:** Strong advocate for **Linux** environments and Shell automation.
+* 🎨 **Creative Side:** Deep background in **Graphic Design** (Photoshop & Illustrator).
+
+---
+
 ## 🛠️ Data Engineering Stack
 **Primary Focus:** Building scalable ETL pipelines, Big Data processing, and BI Automation.
 

@@ -1,4 +1,4 @@
-# SomosRanos
+# 👨‍💻 Mehdi Somrani
 ### Data & BI Engineer | Big Data Specialist
 
 <p align="left">
